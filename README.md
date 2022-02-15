@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anaga Victor</h1>
-<h3 align="center">A MERN stack web developer with an eye for User Interface designs</h3>
+<h3 align="center">A passionate MERN stack web developer with an eye for User Interface designs</h3>
 
 - 🔭 I’m currently working on [Carfaxt](https://carfaxt.netlify.app/)
 
