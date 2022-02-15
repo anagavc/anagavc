@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and JavaScript**
 
-- 👨‍💻 All of my projects are available at [anagavc.netlify.app](anagavc.netlify.app)
+- 👨‍💻 All of my projects are available at [https://anagavc.netlify.app](https://anagavc.netlify.app)
 
 - 💬 Ask me about **React, Node and Mongo**
 
