@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Node and Mongo**
 
-- 📄 Know about my experiences [docs.google.com/](https://docs.google.com/document/d/1j_z2RZHndKHg88vsg2QH5Nj507-4JvsyW1HJRoXjAOg/edit?usp=sharing)
+- 📄 Know about my experiences [View my CV](https://docs.google.com/document/d/1j_z2RZHndKHg88vsg2QH5Nj507-4JvsyW1HJRoXjAOg/edit?usp=sharing)
 
 - ⚡ Fun fact **I am a good scrabble player**
 
