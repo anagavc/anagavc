@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anaga Victor</h1>
-<h3 align="center">A passionate MERN stack web developer with an eye for User Interface designs</h3>
+<h3 align="center">A fullstack web developer using the MERN with an eye for beautiful User Interface designs</h3>
 
 - 🔭 I’m currently working on [Carfaxt](https://carfaxt.netlify.app/)
 
-- 🌱 I’m currently learning **React and JavaScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [Devmek](https://anagavc.netlify.app)
 
-- 💬 Ask me about **React, Node and Mongo**
+- 💬 Ask me about **React, JavaScript Node and Mongo**
 
 - 📄 Know about my experiences [View my CV](https://docs.google.com/document/d/1j_z2RZHndKHg88vsg2QH5Nj507-4JvsyW1HJRoXjAOg/edit?usp=sharing)
 
