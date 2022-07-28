@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [Devmek](https://anagavc.netlify.app)
+- 👨‍💻 All of my projects are available at [Devmek](https://anagavc.vercel.app)
 
-- 💬 Ask me about **React, JavaScript, Node and Mongo**
+- 💬 Ask me about **React, Next.js, JavaScript, Node.js and MongoDB**
 
 - 📄 Know about my experiences [View my CV](https://docs.google.com/document/d/1j_z2RZHndKHg88vsg2QH5Nj507-4JvsyW1HJRoXjAOg/edit?usp=sharing)
 
