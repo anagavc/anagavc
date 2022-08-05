@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anaga Victor</h1>
 <h3 align="center">A Fullstack web developer with an eye for creative User Interface designs</h3>
 
-- 🔭 I’m currently working on [Carfaxt](https://carfaxt.netlify.app/)
+- 🔭 I’m currently working on [Infinite Medicare](https://infinitemedicare.netlify.app/)
 
 - 🌱 I’m currently learning **TypeScript**
 
